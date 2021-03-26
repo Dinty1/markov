@@ -22,3 +22,4 @@ Run `generate(number)` to generate text
 
 ## Other stuff
 If you want to clear all text, navigate to `data/loaded.json` and replace the contents with `[]`.
+You can open the command prompt from Windows Explorer by navigating to the address bar at the top, typing `cmd` and pressing enter.
